@@ -1,0 +1,3 @@
+(library
+ (name dkml_option_vcpkg)
+ (public_name dkml-option-vcpkg))
