@@ -1,6 +1,7 @@
 (lang dune 2.9)
 
 (name dkml-option-vcpkg)
+(version 0.1.0)
 
 (generate_opam_files true)
 
